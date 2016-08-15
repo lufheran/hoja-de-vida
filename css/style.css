@@ -1,3 +1,80 @@
-.background-blue{
-	background-color: blue;
+.background-orange{
+	background-color: #F77D19;
+	color: white;
 }
+.background-blue{
+	background-color: #31A3C6;
+	color: white;
+}
+.nombre{
+	font-family: "Titillium Web",sans-serif;
+	font-size: 54px;
+	line-height: 54px;
+	font-weight: 700;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+h1{
+	padding-top: 40px;
+}
+
+.nombre span{
+	font-weight: 200;
+}
+.carrera{
+	margin-top: 0px;
+	font-weight: 200;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+.foto-cv{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	max-height: 200px;
+	max-width: 200px;
+}
+.yellow{
+	color: #F7DF1E;
+	font-weight: 400;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+.green{
+	color:#1abc9c;
+	font-weight: 400;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+.padding-top{
+	padding-top: 40px;
+}
+
+.padding-bottom{
+	padding-bottom: 30px;
+}
+
+.padding-top .col-md-3{
+	padding-top: 15px;
+}
+.padding-top .col-md-3 img{
+	max-width: 72px;
+	max-height: 72px;
+}
+.text-center{
+	text-align: center;
+}
+.desarrollo{
+	font-weight: 200;
+	font-size: 40px;
+	font-family: "Titillium Web",sans-serif;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.desarrollo-dos{
+	font-family: "Titillium Web",sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+	padding-bottom: 20px;
+}
+.desarrollo-dos > span{
+	font-weight: 700;
+}
+
